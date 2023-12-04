@@ -12,7 +12,7 @@ In this study, the focus is the city of Paris. Data was explored to correct any 
 
 # <h1 align=center> Technical Information
 
-Datasets: Multiples tables in .cvs files with 5,652,855 records. (You can find them in the "Datasets" Folder).
+Datasets: Multiples tables in .cvs files with 5,652,855 records. (You can find them in: https://drive.google.com/drive/folders/1bzNVY2UZ5Oyw2keY2cRGWG3THlF3VTBB?usp=sharing).
 
 There is Listing information of 10 cities. The focus of this analysis is Paris, which has 20 neighbourhoods with many accommodations.
 
