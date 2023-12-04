@@ -1,4 +1,4 @@
-## <h1 align=center> AirBnb-Paris-Listing-Analysis
+## <h1 align=center> AirBnb Paris Listing Analysis
 # <h1 align=center> Analytics Project
 
 <p align="center">
@@ -18,7 +18,7 @@ There is Listing information of 10 cities. The focus of this analysis is Paris, 
 
 EDA, ETL and Vizualization processes were developed in Python and are described at "AirBnB Linting Analysis.ipynb". 
 
-<b> Insights:</b>
+## <h1 align=center> Insights:
 - According to the Analysis performed, it is clear how the number of accommodations decreased starting 2016 when regulations were established (in 2015) to limit new hosts in Paris.
 
 - Prices didn't change significantly through the years, but we can see that starting 2016 there was an increment, maybe because there was less number of accommodates. In 2021, it started to decrease (maybe for recession of Covid in 2020).
